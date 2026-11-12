@@ -10,5 +10,5 @@ Note: novelWriter sometimes changes the theme file format between releases.
 If a theme vanishes from Preferences after an upgrade, the file needs updating.
 
 Combine with these Google fonts:
-EB Garamond
-Cormorant Garamond
+- EB Garamond
+- Cormorant Garamond
