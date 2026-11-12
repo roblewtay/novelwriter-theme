@@ -1,0 +1,109 @@
+# Washi (和紙) — cream handmade paper, sumi ink, vermilion seal
+# Traditional Japanese colours:
+#   washi  #f3ebd9  paper        sumi   #24211d  ink
+#   shu    #a8352a  vermilion    kaki   #a85a26  persimmon
+#   kincha #8f6d1f  golden tea   matcha #56662f  matcha
+#   asagi  #2f6f6c  pale indigo  ai     #2e4a6b  indigo
+#   sakura #b5506e  cherry blossom (highlights, selection #efc3cc)
+
+[Main]
+name   = "Washi (Japanese Light)"
+mode   = "light"
+author = "Custom"
+credit = "Inspired by traditional Japanese colours"
+url    = "https://novelwriter.io/docs/more/customise.html"
+
+[Base]
+base    = "#f3ebd9"
+default = "#24211d"
+faded   = "#7d7466"
+red     = "#a8352a"
+orange  = "#a85a26"
+yellow  = "#8f6d1f"
+green   = "#56662f"
+cyan    = "#2f6f6c"
+blue    = "#2e4a6b"
+purple  = "#b5506e"
+
+[Project]
+root     = "blue"
+folder   = "yellow"
+file     = "default"
+title    = "red"
+chapter  = "red"
+scene    = "blue"
+note     = "yellow"
+active   = "green"
+inactive = "red"
+disabled = "faded"
+
+[Icon]
+tool      = "default"
+sidebar   = "default"
+accept    = "green"
+reject    = "red"
+action    = "blue"
+option    = "orange"
+apply     = "green"
+create    = "yellow"
+destroy   = "faded"
+reset     = "green"
+add       = "green"
+change    = "green"
+remove    = "red"
+shortcode = "default"
+markdown  = "orange"
+system    = "yellow"
+info      = "blue"
+warning   = "orange"
+error     = "red"
+
+[Palette]
+window          = "#e9dfc9"
+windowText      = "default"
+base            = "base"
+alternateBase   = "#e4d9c0"
+text            = "default"
+tooltipBase     = "#2b2824"
+tooltipText     = "#f3ebd9"
+button          = "#e6dcc5"
+buttonText      = "default"
+brightText      = "base"
+highlight       = "#efc3cc"
+highlightedText = "default"
+link            = "blue"
+linkVisited     = "purple"
+accent          = "purple"
+
+[GUI]
+helpText     = "#655d51"
+fadedText    = "faded"
+errorText    = "red"
+accentText   = "purple"
+activeButton = "purple:80"
+activeBase   = "#ecd3cf"
+searchMatch  = "purple:72"
+
+[Syntax]
+background     = "base"
+text           = "default"
+line           = "default:32"
+link           = "blue"
+headerText     = "red"
+headerTag      = "red:L150"
+emphasis       = "orange"
+whitespace     = "faded:64"
+dialog         = "blue"
+altDialog      = "purple"
+note           = "yellow"
+hidden         = "faded"
+shortcode      = "cyan"
+keyword        = "red"
+tag            = "green"
+value          = "green"
+optional       = "cyan"
+spellCheckLine = "red"
+errorLine      = "green"
+replaceTag     = "green"
+modifier       = "blue"
+textHighlight  = "#f0b8c4"
